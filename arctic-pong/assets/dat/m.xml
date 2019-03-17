@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <languages>
+        <language>en</language>
+        <language>sk</language>
+        <language>es</language>
+        <language>cz</language>
+        <language>de</language>
+        <language>it</language>
+        <language>fr</language>
+        <language>ru</language>
+        <language>br</language>
+        <language>tr</language>
+    </languages>
+    <strings>
+        <string id="1" index="0">
+            <en>en</en>
+            <sk>sk</sk>
+            <es>es</es>
+            <cz>cz</cz>
+            <de>de</de>
+            <it>it</it>
+            <fr>fr</fr>
+            <ru>ru</ru>
+            <br>br</br>
+            <tr>tr</tr>
+        </string>
+        <string id="2" index="1">
+            <en>ENABLE MUSIC?</en>
+            <sk/>
+            <es>¿ENCENDER LA MÚSICA?</es>
+            <cz/>
+            <de>MUSIK EINSCHALTEN?</de>
+            <it>ACCENDERE SUONI?</it>
+            <fr>ALLUMER LA MUSIQUE?</fr>
+            <ru></ru>
+            <br>ATIVAR MÚSICA?</br>
+            <tr/>
+        </string>
+        <string id="3" index="2">
+            <en>YES</en>
+            <sk/>
+            <es>SÍ</es>
+            <cz/>
+            <de>JA</de>
+            <it>SÌ</it>
+            <fr>OUI</fr>
+            <ru></ru>
+            <br>SIM</br>
+            <tr/>
+        </string>
+        <string id="4" index="3">
+            <en>NO</en>
+            <sk/>
+            <es>NO</es>
+            <cz/>
+            <de>NEIN</de>
+            <it>NO</it>
+            <fr>NON</fr>
+            <ru></ru>
+            <br>NÃO</br>
+            <tr/>
+        </string>
+        <string id="5" index="4">
+            <en>MENU</en>
+            <sk>bb label</sk>
+            <es>MENÚ</es>
+            <cz/>
+            <de>MENÜ</de>
+            <it>MENU</it>
+            <fr>MENU</fr>
+            <ru></ru>
+            <br>MENU</br>
+            <tr/>
+        </string>
+        <string id="6" index="5">
+            <en>BUY</en>
+            <sk>bb label</sk>
+            <es>COMPRAR</es>
+            <cz/>
+            <de>KAUFEN</de>
+            <it>COMPRARE</it>
+            <fr>ACHETER</fr>
+            <ru>КУПИТЬ</ru>
+            <br>COMPRAR</br>
+            <tr/>
+        </string>
+        <string id="7" index="6">
+            <en>PLAY</en>
+            <sk/>
+            <es>JUEGO</es>
+            <cz/>
+            <de>SPIELEN</de>
+            <it>GIOCA</it>
+            <fr>JOUER</fr>
+            <ru>ИГРАТЬ</ru>
+            <br>JOGAR</br>
+            <tr/>
+        </string>
+        <string id="8" index="7">
+            <en>INSTRUCTIONS</en>
+            <sk/>
+            <es>INSTRUCCIONES</es>
+            <cz/>
+            <de>SPIELANLEITUNG</de>
+            <it>ISTRUZIONI</it>
+            <fr>INSTRUCTIONS</fr>
+            <ru>ИНСТРУКЦИИ</ru>
+            <br>INSTRUÇÕES</br>
+            <tr/>
+        </string>
+        <string id="9" index="8">
+            <en>NOT ENOUGH COINS</en>
+            <sk/>
+            <es>DEFICIENCIA DE MONEDAS</es>
+            <cz/>
+            <de>NICHT GENUG MÜNZEN</de>
+            <it>NON ABBASTANZA MONETE</it>
+            <fr>PAS ASSEZ DE PIÈCES</fr>
+            <ru>НЕДОСТАТОЧНО МОНЕТ</ru>
+            <br>SE MOEDAS SUFICIENTES</br>
+            <tr/>
+        </string>
+        <string id="10" index="9">
+            <en>ABOUT</en>
+            <sk/>
+            <es>ACERCA DE</es>
+            <cz/>
+            <de>ÜBER</de>
+            <it>INFORMAZIONI SU</it>
+            <fr>A PROPOS</fr>
+            <ru></ru>
+            <br>SOBRE</br>
+            <tr/>
+        </string>
+        <string id="11" index="10">
+            <en>MENU</en>
+            <sk/>
+            <es>MENÚ</es>
+            <cz/>
+            <de>MENÜ</de>
+            <it>MENU</it>
+            <fr>MENU</fr>
+            <ru></ru>
+            <br>MENU</br>
+            <tr/>
+        </string>
+        <string id="12" index="11">
+            <en>EXIT?</en>
+            <sk/>
+            <es>¿SALIR?</es>
+            <cz/>
+            <de>VERLASSEN?</de>
+            <it>USCIRE?</it>
+            <fr>QUITTER?</fr>
+            <ru></ru>
+            <br>SAIR?</br>
+            <tr/>
+        </string>
+        <string id="15" index="14">
+            <en>MUSIC ON</en>
+            <sk/>
+            <es>MÚSICA ON</es>
+            <cz/>
+            <de>MUSIK AN</de>
+            <it>MUSICA ACCESA</it>
+            <fr>SONS OUI</fr>
+            <ru>МУЗЫКА ВКЛЮЧЕНА</ru>
+            <br>MÚSICA LIG</br>
+            <tr/>
+        </string>
+        <string id="16" index="15">
+            <en>MUSIC OFF</en>
+            <sk/>
+            <es>MÚSICA OFF</es>
+            <cz/>
+            <de>MUSIK AUS</de>
+            <it>MUSICA OFF</it>
+            <fr>SONS NON</fr>
+            <ru>МУЗЫКА ВЫКЛЮЧЕНА</ru>
+            <br>MÚSICA DESLIG</br>
+            <tr/>
+        </string>
+        <string id="17" index="16">
+            <en>VERSION</en>
+            <sk/>
+            <es>VERSIÓN</es>
+            <cz/>
+            <de>VERSION</de>
+            <it>VERSIONE</it>
+            <fr>VERSION</fr>
+            <ru></ru>
+            <br>VERSÃO</br>
+            <tr/>
+        </string>
+
+        <string id="19" index="18">
+            <en>CONTINUE</en>
+            <sk/>
+            <es>CONTINUAR</es>
+            <cz/>
+            <de>WEITER</de>
+            <it>CONTINUE</it>
+            <fr>CONTINUER</fr>
+            <ru></ru>
+            <br>CONTINUE</br>
+            <tr/>
+        </string>
+        <string id="20" index="19">
+            <en>PAUSE</en>
+            <sk/>
+            <es>PAUSADO</es>
+            <cz/>
+            <de>PAUSE</de>
+            <it>PAUSA</it>
+            <fr>PAUSE</fr>
+            <ru>ПАУЗА</ru>
+            <br>PAUSA</br>
+            <tr/>
+        </string>
+        <string id="21" index="20">
+            <en>GAME OVER</en>
+            <sk/>
+            <es>FIN DE JUEGO</es>
+            <cz/>
+            <de>SPIELENDE</de>
+            <it>FINE DEL GIOCO</it>
+            <fr>FIN DU JEU</fr>
+            <ru></ru>
+            <br>FIM DO JOGO</br>
+            <tr/>
+        </string>
+        <string id="22" index="21">
+            <en>READY?</en>
+            <sk/>
+            <es>LISTO?</es>
+            <cz/>
+            <de>BEREIT?</de>
+            <it>PRONTO?</it>
+            <fr>PRÊT?</fr>
+            <ru></ru>
+            <br>PRONTO?</br>
+            <tr/>
+        </string>
+        <string id="23" index="22">
+            <en>NEW</en>
+            <sk/>
+            <es>NUEVO</es>
+            <cz/>
+            <de>NEUER</de>
+            <it>NUOVO</it>
+            <fr>NOUVEAU</fr>
+            <ru>НОВЫЙ </ru>
+            <br>NOVO</br>
+            <tr/>
+        </string>
+        <string id="24" index="23">
+            <en>BEST</en>
+            <sk/>
+            <es>RÉCORD</es>
+            <cz/>
+            <de>REKORD</de>
+            <it>RECORD</it>
+            <fr>RECORD</fr>
+            <ru>РЕКОРД</ru>
+            <br>RECORDE</br>
+            <tr/>
+        </string>
+        <string id="26" index="24">
+            <en>CONTROLS:\n\nTOUCH THE SCREEN TO CHANGE THE CHARACTER'S MOVING DIRECTION, THAT'S IT!</en>
+            <sk>controls touch</sk>
+            <es>CONTROLES:\n\nTOCA LA PANTALLA PARA CAMBIAR LA DIRECCIÓN DE MOVIMIENTO DEL PERSONAJE. ¡ESO ES TODO!</es>
+            <cz/>
+            <de>STEUERUNG:\n\nBERÜHRE DEN BILDSCHIRM, UM DEN SPIELCHARAKTER IN EINE ANDERE RICHTUNG ZU LENKEN. SO EINFACH IST DAS!</de>
+            <it>COMANDI:\n\nTOCCA LO SCHERMO PER CAMBIARE LA DIREZIONE DI SPOSTAMENTO DEL PERSONAGGIO, QUESTO È TUTTO!</it>
+            <fr>COMMANDES:\n\nTOUCHEZ L'ÉCRAN POUR CHANGER LE SENS DE DÉPLACEMENT DU PERSONNAGE, C'EST TOUT ! </fr>
+            <ru>КАК УПРАВЛЯТЬ:\n\nДОТРОНЬТЕСЬ ДО ЭКРАНА, ЧТОБЫ ИЗМЕНИТЬ НАПРАВЛЕНИЕ ДВИЖЕНИЯ ПЕРСОНАЖА!</ru>
+            <br>CONTROLE:\n\nTOQUE A TELA PARA MUDAR A DIREÇÃO DO PERSONAGEM, É ISSO!</br>
+            <tr/>
+        </string>
+        <string id="27" index="25">
+            <en>CONTROLS:\n\n2 OR NAVIGATION KEY UP: UP IN MENU\n8 OR NAVIGATION KEY DOWN: DOWN IN MENU\n4 OR NAVIGATION KEY LEFT: LEFT IN MENU\n6 OR NAVIGATION KEY RIGHT: RIGHT IN MENU\n5 OR CENTRAL NAVIGATION KEY: REVERSE CHARACTER MOVING DIRECTION IN LEVEL, SELECT IN MENU\nLEFT SOFT KEY: SELECT\nRIGHT SOFT KEY: BACK IN MENU, PAUSE, QUIT IN MAIN MENU</en>
+            <sk>controls keyboard</sk>
+            <es>CONTROLES:\n\n2 O BOTÓN DE NAVEGACIÓN HACIA ARRIBA: SUBIR EN EL MENÚ\n8 O BOTÓN DE NAVEGACIÓN HACIA ABAJO: BAJAR EN EL MENÚ\n4 O BOTÓN DE NAVEGACIÓN IZQUIERDO: IZQUIERDA EN EL MENÚ\n6 O BOTÓN DE NAVEGACIÓN DERECHO: DERECHA EN EL MENÚ\n5 O BOTÓN DE NAVEGACIÓN CENTRAL: CAMBIAR LA DIRECCIÓN DE MOVIMIENTO DEL PERSONAJE EN EL NIVEL, SELECCIONAR EN EL MENÚ\nBOTÓN DE SELECCIÓN IZQUIERDO: SELECCIONAR\nBOTÓN DE SELECCIÓN DERECHO: ATRÁS EN EL MENÚ, PAUSA, SALIR EN EL MENÚ PRINCIPAL</es>
+            <cz/>
+            <de>STEUERUNG:\n\n2 ODER OBERE NAVIGATIONSTASTE: HOCH IM MENÜ\n8 ODER UNTERE NAVIGATIONSTASTE: RUNTER IM MENÜ\n4 ODER LINKE NAVIGATIONSTASTE: LINKS IM MENÜ\n6 ODER RECHTE NAVIGATIONSTASTE: RECHTS IM MENÜ\n5 ODER MITTLERE NAVIGATIONSTASTE: BEWEGUNGSRICHTUNG IM LEVEL ÄNDERN, AUSWAHL IM MENÜ\nLINKE FUNKTIONSTASTE: AUSWAHL\nRECHTE FUNKTIONSTASTE: ZURÜCK IM MENÜ, PAUSE, HAUPTMENÜ VERLASSEN</de>
+            <it>COMANDI:\n\n2 O TASTO DI NAVIGAZIONE SU: SALI NEL MENU\n8 O TASTO DI NAVIGAZIONE GIÙ: SCENDI NEL MENU\n4 O TASTO DI NAVIGAZIONE CENTRALE: SINISTRA NEL MENU\n6 O TASTO DI NAVIGAZIONE DESTRO: DESTRA NEL MENU\n5 O TASTO DI NAVIGAZIONE CENTRALE: INVERTI LA DIREZIONE DI SPOSTAMENTO DEL PERSONAGGIO NEL LIVELLO, SELEZIONA NEL MENU\nTASTO FUNZIONE SINISTRO: SELEZIONA\nTASTO FUNZIONE DESTRO: INDIETRO NEL MENU, PAUSA, ESCI NEL MENU PRINCIPALE</it>
+            <fr>COMMANDES:\n\n2 OU TOUCHE DE NAVIGATION HAUTE: EN HAUT DANS LE MENU\n8 OU TOUCHE DE NAVIGATION BASSE: EN BAS DANS LE MENU\n4 OU TOUCHE DE NAVIGATION GAUCHE: À GAUCHE DANS LE MENU\n6 OU TOUCHE DE NAVIGATION DROITE: À DROITE DANS LE MENU\n5 OU TOUCHE DE NAVIGATION CENTRALE: CHANGER LE SENS DE DÉPLACEMENT DU PERSONNAGE, SÉLECTIONNER DANS LE MENU\nTOUCHE PROGRAMMABLE GAUCHE: SÉLECTIONNER\nTOUCHE PROGRAMMABLE DROITE: QUITTER, RETOUR AU MENU, PAUSE</fr>
+            <ru></ru>
+            <br>CONTROLES:\n\n2 OU TECLA DE NAVEGAÇÃO PARA CIMA: CIMA NO MENU\n8 OU TECLA DE NAVEGAÇÃO PARA BAIXO: BAIXO NO MENU\n4 OU TECLA DE NAVEGAÇÃO PARA A ESQUERDA: À ESQUERDA NO MENU\n6 OU TECLA DE NAVEGAÇÃO PARA A DIREITA: À DIREITA NO MENU\nTECLA 5 OU DE NAVEGAÇÃO CENTRAL: REVERTE A DIRETO DO PERSONAGEM NO NÍVEL, SELECIONAR NO MENU\nTECLA DE FUNÇÃO ESQUERDA: SELECIONAR\nTECLA DE FUNÇÃO DIREITA: VOLTAR NO MEU, PAUSAR, SAIR NO MENU PRINCIPAL</br>
+            <tr/>
+        </string>
+        <string id="28" index="26">
+            <en>COLLECT COINS AND AVOID THE HUNGRY POLAR BEARS. THE LONGER YOU PLAY, THE MORE POLAR BEARS WILL TRY TO GET YOU! UNLOCK NEW CHARACTERS WITH COINS YOU EARNED.</en>
+            <sk/>
+            <es>RECOGE MONEDAS Y ESQUIVA A LOS OSOS POLARES HAMBRIENTOS. ¡CUANTO MÁS JUEGUES, MÁS OSOS POLARES INTENTARÁN ATRAPARTE! DESBLOQUEA PERSONAJES NUEVOS CON LAS MONEDAS QUE CONSIGAS.</es>
+            <cz/>
+            <de>SAMMLE MÜNZEN UND GEHE DEN HUNGRIGEN EISBÄREN AUS DEM WEG. JE LÄNGER DU SPIELST, DESTO MEHR EISBÄREN HABEN ES AUF DICH ABGESEHEN. MIT DEN GESAMMELTEN MÜNZEN KANNST DU NEUE CHARAKTERE FREISCHALTEN.</de>
+            <it>RACCOGLI LE MONETE ED EVITA GLI ORSI POLARI ARRABBIATI. PIÙ TEMPO GIOCHI, PIÙ ORSI POLARI CERCHERANNO DI PRENDERTI! SBLOCCA NUOVI PERSONAGGI CON LE MONETE CHE OTTIENI.</it>
+            <fr>COLLECTEZ DES PIÈCES ET ÉVITEZ LES OURS POLAIRES AFFAMÉS. PLUS VOUS JOUEREZ LONGTEMPS, PLUS LES OURS POLAIRES ESSAIERONT DE VOUS ATTRAPER ! DÉVERROUILLEZ DE NOUVEAUX PERSONNAGES AVEC LES PIÈCES QUE VOUS AVEZ GAGNÉES.</fr>
+            <ru></ru>
+            <br>RECOLHA MOEDAS E EVITE OS URSOS POLARES FAMINTOS. QUANTO MAIS VOCÊ JOGAR, MAIS OS URSOS MAIS POLARES VÃO TENTAR PEGÁ-LO! DESBLOQUEIE NOVOS PERSONAGENS COM AS MOEDAS QUE GANHOU.</br>
+            <tr/>
+        </string>
+        <string id="29" index="27">
+            <en></en>
+            <sk/>
+            <es></es>
+            <cz/>
+            <de></de>
+            <it></it>
+            <fr></fr>
+            <ru></ru>
+            <br></br>
+            <tr/>
+        </string>
+        <string id="30" index="28">
+            <en>SEAL</en>
+            <sk/>
+            <es>FOCA</es>
+            <cz/>
+            <de>SEEHUND</de>
+            <it>FOCA</it>
+            <fr>PHOQUE</fr>
+            <ru>ТЮЛЕНЬ</ru>
+            <br>FOCA</br>
+            <tr/>
+        </string>
+        <string id="31" index="29">
+            <en>WALRUS</en>
+            <sk/>
+            <es>MORSA</es>
+            <cz/>
+            <de>WALROSS</de>
+            <it>TRICHECO</it>
+            <fr>MORSE</fr>
+            <ru>МОРЖ</ru>
+            <br>MORSA</br>
+            <tr/>
+        </string>
+        <string id="32" index="30">
+            <en>PENGUIN</en>
+            <sk/>
+            <es>PINGÜINO</es>
+            <cz/>
+            <de>PINGUIN</de>
+            <it>PINGUINO</it>
+            <fr>PINGOUIN</fr>
+            <ru>ПИНГВИН</ru>
+            <br>PINGUIM</br>
+            <tr/>
+        </string>
+        <string id="33" index="31">
+            <en>OWL</en>
+            <sk/>
+            <es>BÚHO</es>
+            <cz/>
+            <de>EULE</de>
+            <it>GUFO</it>
+            <fr>HIBOU</fr>
+            <ru>СОВА</ru>
+            <br>CORUJA</br>
+            <tr/>
+        </string>
+        <string id="34" index="32">
+            <en>REINDEER</en>
+            <sk/>
+            <es>RENO</es>
+            <cz/>
+            <de>RENTIER</de>
+            <it>RENNA</it>
+            <fr>RENNE</fr>
+            <ru>ОЛЕНЬ</ru>
+            <br>RENA</br>
+            <tr/>
+        </string>
+        <string id="LANGS" index="33">
+            <en>Language</en>
+            <sk/>
+            <es>Idioma</es>
+            <cz/>
+            <de>Sprache</de>
+            <it>Lingua</it>
+            <fr>Langue</fr>
+            <ru>ЯЗЫК</ru>
+            <pt>Língua</pt>
+            <br>Língua</br>
+            <tr/>
+        </string></strings>
+</stringresources>
