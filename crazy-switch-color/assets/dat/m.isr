@@ -1,0 +1,122 @@
+<strings>
+	<string id="PAUSE" index="">
+		<en>Pause</en>
+		<de>Pause</de>
+		<fr>Pause</fr>
+		<pt>Pausa</pt>
+		<es>Pausa</es>
+		<it>Pausa</it>
+		<ru>ПАУЗА</ru>
+	</string>
+
+	<string id="HELP" index="">
+		<en>Jump with the ball carefully through each obstacle when the colors match with the ball. The color of the ball changes when it goes through a switch. Collect stars on your way to buyother balls. Be careful not to pass through the wrong color, or you’ll have to start again.  Controls:  Tap anywhere to jump with the ball. Tap other onscreen icons for corresponding action (play, pause...).</en>
+		<de>Lass den Ball vorsichtig durch das jeweilige Hindernis springen, sobald die Farben übereinstimmen. Die Farbe des Balls ändert sich, sobald er einen Farbschalter passiert. Sammle Sterne, um andere Bälle zu kaufen. Erwischst du die falsche Farbe, musst du von vorne beginnen.  Steuerung:  Tippe auf eine beliebige Stelle des Bildschirms, um den Ball aufspringen zu lassen. Tippe auf die Symbole für die jeweilige Aktion (Spielen, Pause …).</de>
+		<fr>Faites sauter prudemment la balle à travers chaque obstacle lorsqu'il est de la même couleur que la balle. La couleur de la balle change quand elle traverse un interrupteur. Récupérez des étoiles en chemin pour acheter d'autres balles. Attention de ne pas traverser la mauvaise couleur, sinon vous devrez recommencer.  Commandes:  Touchez l'écran pour faire sauter la balle. Touchez les autres icônes à l'écran pour réaliser l'action correspondante (jouer, pause...).</fr>
+		<pt>Pule com a bola cuidadosamente através de cada obstáculo quando as cores se alinharem. A cor da bola muda quando ela passa através de um interruptor. Pegue estrelas em seu caminho para comprar outras bolas. Preste atenção para não passar através da cor errada ou você vai ter que começar de novo.  Controles:  Toque em qualquer lugar para pular com a bola. Toque em outros ícones na tela para a ação correspondente (reproduzir, pausar...).</pt>
+		<es>Haz saltar la bola por encima de los obstáculos cuando los colores coincidan con el suyo. El color de la bola cambia cuando pasa por un interruptor. Recoge estrellas por el camino para comprar más bolas. Ten cuidado de no atravesar el color equivocado o tendrás que empezar de nuevo.  Controles:  Toca en cualquier lugar para hacer saltar la bola. Toca los iconos en pantalla para realizar la acción correspondiente (jugar, pausa, etc.).</es>
+		<it>Salta con la palla attraverso gli ostacoli quando i colori corrispondono a quelli della palla. Il colore della palla cambia quando attraversa un interruttore. Raccogli le stelle che incontri per comprare altre palle. Fai attenzione a non superare il colore sbagliato, altrimenti dovrai ricominciare dall'inizio.  Comandi:  Tocca un punto qualunque per saltare con la palla. Tocca le altre icone sullo schermo per eseguire l'azione corrispondente (gioca, pausa...).</it>
+		<ru>ПРОЙДИТЕ ШАРОМ ЧЕРЕЗ КАЖДОЕ ПРЕПЯТСТВИЕ, ЦВЕТ ОТДЕЛЕНИЯ КРУГА ДОЛЖЕН БЫТЬ ОДИНАКОВЫЙ С ШАРОМ. ЦВЕТ ШАРА ИЗМЕНЯЕТСЯ ПО ПРОХОДУ ЧЕРЕЗ ПЕРЕКЛЮЧАТЕЛЬ. СОБИРАЙТЕ ЗВЕЗДЫ И ВЫ МОЖЕТЕ ПОКУПАТЬ НОВЫЕ ФОРМЫ. БУДЬТЕ ОСТОРОЖНЫ И НЕ ПОПАДИТЕ НА ДРУГОЙ ЦВЕТ, ИЛИ ВЫ БУДЕТЕ ВЫНУЖДЕНЫ НАЧАТЬ ЗАНОВО. КАК УПРАВЛЯТЬ: НАЖМИТЕ В ЛЮБОЕ МЕСТО, ЧТОБЫ ПОДПРЫГНУТЬ С ШАРОМ. ИСПОЛЬЗУЙТЕ ДРУГИЕ ИКОНКИ ДЛЯ УПРАВЛЕНИЯ (ИГРАТЬ, ПАУЗА ...).</ru>
+	</string>
+	
+	<string id="HELP_SHORT" index="">
+		<en>Tap anywhere to jump with the ball.</en>
+		<de>Tippe auf eine beliebige Stelle des Bildschirms, um den Ball aufspringen zu lassen.</de>
+		<fr>Touchez l'écran pour faire sauter la balle.</fr>
+		<pt>Toque em qualquer lugar para pular com a bola.</pt>
+		<es>Toca en cualquier lugar para hacer saltar la bola.</es>
+		<it>Tocca un punto qualunque per saltare con la palla.</it>
+		<ru></ru>
+	</string>
+
+	<string id="INSTRUCTIONS" index="">
+		<en>Instructions</en>
+		<es>Instrucciones</es>
+		<de>Anleitung</de>
+		<it>Istruzioni</it>
+		<fr>Instructions</fr>
+		<pt>Instruções</pt>
+		<ru>ИНСТРУКЦИЯ</ru>
+	</string>
+	
+	<string id="LEVEL" index="">
+		<en>Level</en>
+		<de>Stufe</de>
+		<fr>Niveau</fr>
+		<pt>Nível</pt>
+		<es>Nivel</es>
+		<it>Livello</it>
+		<ru>УРОВЕНЬ</ru>
+	</string>
+
+	<string id="LEVELS" index="">
+		<en>Levels</en>
+		<de>Niveles</de>
+		<fr>Levels</fr>
+		<pt>Níveis</pt>
+		<es>Niveaux</es>
+		<it>Livelli</it>
+		<ru>УРОВНИ</ru>
+	</string>
+
+	<string id="SHOP" index="">
+		<en>Shop</en>
+		<de>Shop</de>
+		<fr>Magasin</fr>
+		<pt>Loja</pt>
+		<es>Tienda</es>
+		<it>Negozio</it>
+		<ru>МАГАЗИН</ru>
+	</string>
+
+	<string id="GAMEOVER" index="">
+		<en>game over</en>
+		<de>spiele ende</de>
+		<fr>game over</fr>
+		<pt>fim do jogo</pt>
+		<es>fin de juego</es>
+		<it>fine del gioco</it>
+		<ru>ИГРА ОКОНЧЕНА!</ru>
+	</string>
+
+	<string id="LEVELCLEARED" index="">
+		<en>Level cleared!</en>
+		<de>Level geschafft!</de>
+		<fr>Niveau terminé!</fr>
+		<pt>Nível terminado!</pt>
+		<es>¡Nivel despejado!</es>
+		<it>Livello completato!</it>
+		<ru>УРОВЕНЬ ПРОЙДЕН!</ru>
+	</string>
+
+	<string id="LEVELFAILED" index="">
+		<en>Level failed!</en>
+		<de>Level nicht geschafft!</de>
+		<fr>Niveau échoué!</fr>
+		<pt>Nível fracassado!</pt>
+		<es>¡Nivel fallido!</es>
+		<it>Livello fallito!</it>
+		<ru></ru>
+	</string>
+
+	<string id="LEVELLOCKED" index="">
+		<en>This level is locked.</en>
+		<de>Dieses Level ist noch nicht freigeschaltet.</de>
+		<fr>Ce niveau est verrouillé.</fr>
+		<pt>Este nível está bloqueado.</pt>
+		<es>Este nivel está bloqueado.</es>
+		<it>Il livello è bloccato.</it>
+		<ru>УРОВЕНЬ ПРОВАЛЕН!</ru>
+	</string>
+
+	<string id="NOTENOUGHSTARS" index="">
+		<en>You don't have enough stars to buy this ball.</en>
+		<de>Du hast nicht genügend Sterne, um diesen Ball zu kaufen.</de>
+		<fr>Vous n'avez pas assez d'étoiles pour acheter cette balle.</fr>
+		<pt>Você não tem estrelas suficientes para comprar esta bola.</pt>
+		<es>No tienes suficientes estrellas para comprar esta bola.</es>
+		<it>Non hai stelle a sufficienza per comprare questa palla.</it>
+		<ru></ru>
+	</string>
+</strings>
+
