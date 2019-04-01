@@ -1,0 +1,132 @@
+{"frames": {
+
+"brzda-pred.png":
+{
+	"frame": {"x":452,"y":2,"w":48,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":360,"y":157,"w":48,"h":44},
+	"sourceSize": {"w":480,"h":270}
+},
+"brzda-zad.png":
+{
+	"frame": {"x":452,"y":48,"w":48,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":158,"w":48,"h":44},
+	"sourceSize": {"w":480,"h":270}
+},
+"d.png":
+{
+	"frame": {"x":2,"y":2,"w":448,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":58,"w":448,"h":143},
+	"sourceSize": {"w":480,"h":270}
+},
+"dielis.png":
+{
+	"frame": {"x":2,"y":437,"w":431,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":431,"h":74},
+	"sourceSize": {"w":431,"h":74}
+},
+"dielis2.png":
+{
+	"frame": {"x":2,"y":513,"w":290,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":290,"h":89},
+	"sourceSize": {"w":290,"h":89}
+},
+"exhaust.png":
+{
+	"frame": {"x":2,"y":683,"w":71,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":19},
+	"sourceSize": {"w":71,"h":19}
+},
+"glass.png":
+{
+	"frame": {"x":230,"y":604,"w":253,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":61,"w":253,"h":66},
+	"sourceSize": {"w":480,"h":270}
+},
+"glossy_add.png":
+{
+	"frame": {"x":2,"y":147,"w":448,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":58,"w":448,"h":143},
+	"sourceSize": {"w":480,"h":270}
+},
+"glossy_add1.png":
+{
+	"frame": {"x":2,"y":292,"w":448,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":58,"w":448,"h":143},
+	"sourceSize": {"w":480,"h":270}
+},
+"interior.png":
+{
+	"frame": {"x":230,"y":672,"w":245,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":74,"w":245,"h":53},
+	"sourceSize": {"w":480,"h":270}
+},
+"kolesa_hviezda.png":
+{
+	"frame": {"x":435,"y":437,"w":69,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":11,"w":69,"h":68},
+	"sourceSize": {"w":159,"h":89}
+},
+"koleso-pred.png":
+{
+	"frame": {"x":374,"y":513,"w":76,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":345,"y":144,"w":76,"h":71},
+	"sourceSize": {"w":480,"h":270}
+},
+"koleso-zad.png":
+{
+	"frame": {"x":294,"y":513,"w":78,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":146,"w":78,"h":71},
+	"sourceSize": {"w":480,"h":270}
+},
+"shadow.png":
+{
+	"frame": {"x":2,"y":604,"w":226,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":226,"h":77},
+	"sourceSize": {"w":226,"h":79}
+},
+"void.png":
+{
+	"frame": {"x":452,"y":94,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":1,"h":1}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "car3.png",
+	"format": "RGBA8888",
+	"size": {"w":506,"h":727},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:2b72a3daef4e401ddc44b1c842e6d15b:0b564ff0d4c1097888954affc531c569:1c504405c5fba8caa290dca925897f57$"
+}
+}

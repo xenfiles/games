@@ -1,0 +1,636 @@
+{
+  "stringresources": {
+    "languages": {
+      "language": [
+        "en",
+        "de",
+        "es",
+        "fr",
+        "it",
+        "pt"
+      ]
+    },
+    "strings": {
+      "string": [
+
+        {
+          "id": "TUT_PERFECT_START",
+          "index": "0",
+          "en": "Perfect start is crucial!\nTap the pedal. Move the needle to the green zone.",
+          "de": "Ein perfekter Start ist alles.\nDrück das Pedal. Bring die Nadel in den grünen Bereich.",
+          "es": "¡Un buen comienzo es fundamental!\n Toca el pedal. La aguja debería estar en la zona verde.",
+          "fr": "Un départ parfait est crucial!\n Touche la pédale. Déplace l'aiguille dans la zone verte.",
+          "it": "Una partenza perfetta è fondamentale!\nTocca il pedale. Sposta la lancetta nella zona verde.",
+          "pt": "A largada perfeita é essencia!\nToque no pedal! Leve a agulha até a zona verde."
+        },
+        {
+          "id": "TUT_SHIFTING",
+          "index": "0",
+          "en": "Shift when the needle is in the green zone!",
+          "de": "Schalte, wenn sich die Nadel im grünen Bereich befindet.",
+          "es": "¡Cambia de marcha cuando la aguja esté en la zona verde!",
+          "fr": "Change de vitesse quand l'aiguille est dans la zone verte !",
+          "it": "Cambia marcia quando la lancetta è nella zona verde!",
+          "pt": "Mude de marcha quando a agulha estiver na zona verde!"
+        },
+        {
+          "id": "TUT_NITRO",
+          "index": "0",
+          "en": "Never forget to use the nitrous boost!\nTry now!",
+          "de": "Vergiss nicht den Nitro-Boost.\nVersuchs jetzt.",
+          "es": "¡No te olvides de usar el nitro!\n¡Pruébalo ya!",
+          "fr": "N'oublie jamais d'utiliser le boost de nitro!\nEssaie maintenant!",
+          "it": "Non dimenticare mai di usare il turbo nitro!\nProva ora!",
+          "pt": "Nunca se esqueça de usar o impulso nitro!\nTente agora!"
+        },
+        {
+          "id": "TUT_GARAGE",
+          "index": "0",
+          "en": "That was quite good!\nYou'll have to upgrade your ride to stand a chance in crew battles.\nLet's upgrade the nitrous!",
+          "de": "Nicht schlecht. Du brauchst ein Upgrade, wenn du nur den Hauch einer Chance im Teamrennen haben willst.\nWie wäre es mit einem Nitro-Upgrade?",
+          "es": "¡Muy bien! Pero si quieres tener alguna oportunidad en las carreras de pandillas, debes tunear tu coche.\n¡Mejora el nitro!",
+          "fr": "C'était plutôt bien! Tu vas devoir améliorer ton bolide pour espérer avoir une chance dans les batailles d'équipe.\nAméliorons la nitro!",
+          "it": "Non c'è male! Dovrai potenziare il tuo veicolo per avere una possibilità nelle sfide delle bande.\nPotenziamo il nitro!",
+          "pt": "Foi muito bom! Você terá que atualizar seu carro para ter chance nas batalhas da equipe.\nVamos atualizar o nitro!"
+        },
+        {
+          "id": "POWER",
+          "index": "0",
+          "en": "power",
+          "de": "Leistung",
+          "es": "potencia",
+          "fr": "puissance",
+          "it": "potenza",
+          "pt": "potência"
+        },
+        {
+          "id": "WEIGHT",
+          "index": "0",
+          "en": "weight",
+          "de": "Gewicht",
+          "es": "peso",
+          "fr": "poids",
+          "it": "peso",
+          "pt": "peso"
+        },
+        {
+          "id": "GRIP",
+          "index": "0",
+          "en": "grip",
+          "de": "Grip",
+          "es": "agarre",
+          "fr": "adhérence",
+          "it": "tenuta",
+          "pt": "aderência"
+        },
+        {
+          "id": "YOU_WIN",
+          "index": "0",
+          "en": "You win!",
+          "de": "Gewonnen!",
+          "es": "¡Has ganado!",
+          "fr": "Vous avez gagné!",
+          "it": "Hai vinto!",
+          "pt": "Você vence!"
+        },
+        {
+          "id": "YOU_LOST",
+          "index": "0",
+          "en": "You lost!",
+          "de": "Verloren!",
+          "es": "¡Has perdido!",
+          "fr": "Vous avez perdu!",
+          "it": "Hai perso!",
+          "pt": "Você perdeu!"
+        },
+        {
+          "id": "YOUR_TIME",
+          "index": "0",
+          "en": "Your Time",
+          "de": "Deine Zeit",
+          "es": "Tu Tiempo",
+          "fr": "Votre Temps",
+          "it": "Il Tuo Tempo",
+          "pt": "Seu Tempo"
+        },
+        {
+          "id": "OPPONENTS_TIME",
+          "index": "0",
+          "en": "Opponent's time",
+          "de": "Zeit Des Gegners",
+          "es": "Tiempo Del Rival",
+          "fr": "Temps De l'Adversaire",
+          "it": "Il Tempo Dell'Avversario",
+          "pt": "Tempo Do Oponente"
+        },
+        {
+          "id": "MAX_SPEED",
+          "index": "0",
+          "en": "Max Speed",
+          "de": "Max.geschwin.",
+          "es": "Velocidad Máx.",
+          "fr": "Vitesse Maximale",
+          "it": "Velocità Massima",
+          "pt": "Velocidade Máx"
+        },
+        {
+          "id": "PERFECT_SHIFTS",
+          "index": "0",
+          "en": "Perfect Shifts",
+          "de": "Perfekte Schaltvorgänge",
+          "es": "Cambios Perfectos",
+          "fr": "Parfait Changements",
+          "it": "Cambi Perfetti",
+          "pt": "Mudanças Perfeitas"
+        },
+        {
+          "id": "WINNINGS",
+          "index": "0",
+          "en": "Winnings",
+          "de": "Siege",
+          "es": "Ganancias",
+          "fr": "Gains",
+          "it": "Vittorie",
+          "pt": "Vitórias"
+        },
+        {
+          "id": "RACE_PRIZE",
+          "index": "0",
+          "en": "Race Prize",
+          "de": "Preis",
+          "es": "Premio De La Carrera",
+          "fr": "Prix Course",
+          "it": "Premio Della Corsa",
+          "pt": "Prêmio Da Corrida"
+        },
+        {
+          "id": "LAUNCH_BONUS",
+          "index": "0",
+          "en": "Launch Bonus",
+          "de": "Bonus",
+          "es": "Bonif. De Lanzamiento",
+          "fr": "Bonus Départ",
+          "it": "Bonus Avvio",
+          "pt": "Bônus De Lançamento"
+        },
+        {
+          "id": "GOOD_SHIFTS",
+          "index": "0",
+          "en": "Good Shifts",
+          "de": "Gute Schaltvorgänge",
+          "es": "Buenos Cambios",
+          "fr": "Bons Changements",
+          "it": "Cambi Decenti",
+          "pt": "Boas Mudanças"
+        },
+        {
+          "id": "TOTAL_WON",
+          "index": "0",
+          "en": "Total Won",
+          "de": "Siege Insgesamt",
+          "es": "Total Ganado",
+          "fr": "Total Gagnées",
+          "it": "Totale Vittorie",
+          "pt": "Total Vencido"
+        },
+        {
+          "id": "PAUSE",
+          "index": "0",
+          "en": "Pause",
+          "de": "Pause",
+          "es": "Pausa",
+          "fr": "Pause",
+          "it": "Pausa",
+          "pt": "Pausar"
+        },
+        {
+          "id": "PERFECT_START",
+          "index": "0",
+          "en": "PERFECT START",
+          "de": "PERFEKTER START",
+          "es": "UN COMIENZO PERFECTO",
+          "fr": "DÉMARRAGE PARFAIT",
+          "it": "PARTENZA PERFETTA",
+          "pt": "LARGADA PERFEITA"
+        },
+        {
+          "id": "GOOD_START",
+          "index": "0",
+          "en": "GOOD START",
+          "de": "GUTER START",
+          "es": "BUEN COMIENZO",
+          "fr": "BON DÉMARRAGE",
+          "it": "OTTIMA PARTENZA",
+          "pt": "BOA LARGADA"
+        },
+        {
+          "id": "SLOW_START",
+          "index": "0",
+          "en": "SLOW START",
+          "de": "LANGSAMER START",
+          "es": "COMIENZO LENTO",
+          "fr": "DÉMARRAGE LENT",
+          "it": "PARTENZA LENTA",
+          "pt": "LARGADA VAGAROSA"
+        },
+        {
+          "id": "PERFECT_SHIFT",
+          "index": "0",
+          "en": "PERFECT SHIFT",
+          "de": "PERFEKT GESCHALTET",
+          "es": "CAMBIO DE MARCHAS PERFECTO",
+          "fr": "CHANGEMENT PARFAIT",
+          "it": "CAMBIO MARCIA PERFETTO",
+          "pt": "MUDANÇA PERFEITA"
+        },
+        {
+          "id": "GOOD_SHIFT",
+          "index": "0",
+          "en": "GOOD SHIFT",
+          "de": "GUT GESCHALTET",
+          "es": "BUEN CAMBIO DE MARCHAS",
+          "fr": "BON CHANGEMENT",
+          "it": "OTTIMO CAMBIO MARCIA",
+          "pt": "BOA MUDANÇA"
+        },
+        {
+          "id": "MAP_RANKING",
+          "index": "0",
+          "en": "Race your car against progressively tougher opponents",
+          "de": "Trete mit deinem Auto gegen immer schwierigere Gegner an",
+          "es": "Participa en carreras contra rivales que aumentan en dificultad",
+          "fr": "Faites la course contre des adversaires de plus en plus forts",
+          "it": "Gareggia contro avversari sempre più forti",
+          "pt": "Corra contra adversários mais difíceis progressivamente"
+        },
+        {
+          "id": "MAP_BATTLES",
+          "index": "0",
+          "en": "High rewards in special loaned cars",
+          "de": "Hohe Belohnungen in besonderen, geliehenen Autos",
+          "es": "Grandes recompensas en vehículos especiales prestados",
+          "fr": "Grosses récompenses dans les voitures prêtées spéciales",
+          "it": "Fantastiche ricompense nelle auto noleggiate speciali",
+          "pt": "Altas recompensas em carros especiais emprestados"
+        },
+        {
+          "id": "MAP_QUICKRACE",
+          "index": "0",
+          "en": "Race your car and set difficulty higher for bigger prizes",
+          "de": "Steigere die Schwierigkeit und hol dir größere Gewinne",
+          "es": "Participa en carreras y elige mayores dificultades para obtener premios mejores",
+          "fr": "Faites la course avec votre voiture et augmentez la difficulté pour obtenir de plus gros prix",
+          "it": "Gareggia con la tua auto a un livello di difficoltà maggiore per ricevere premi migliori",
+          "pt": "Corra seu carro e defina dificuldade maior para ter prêmios maiores"
+        },
+        {
+          "id": "MAP_CREWBATTLE",
+          "index": "0",
+          "en": "Beat crew members in turn, then beat the crew leader to unlock the next tier",
+          "de": "Schlage nacheinander alle Teammitglieder und dann den Anführer, um die nächste Stufe freizuschalten",
+          "es": "Gana a los miembros de una pandilla uno a uno y, por último, al líder para desbloquear el siguiente nivel",
+          "fr": "Battez les membres d'une équipe à tour de rôle, puis battez le chef d'équipe pour déverrouiller le niveau suivant",
+          "it": "Batti i membri della banda a turno, poi batti il loro capo per sbloccare la classe successiva",
+          "pt": "Derrote os membros da equipe, depois o líder para desbloquear o novo nível"
+        },
+        {
+          "id": "SMOOTH",
+          "index": "0",
+          "en": "smooth",
+          "de": "einfach",
+          "es": "sencillo",
+          "fr": "fluide",
+          "it": "facile",
+          "pt": "tranquilo"
+        },
+        {
+          "id": "CHALLENGING",
+          "index": "0",
+          "en": "challenging",
+          "de": "fordernd",
+          "es": "exigente",
+          "fr": "stimulant",
+          "it": "avvincente",
+          "pt": "desafiador"
+        },
+        {
+          "id": "INSANE",
+          "index": "0",
+          "en": "insane",
+          "de": "verrückt",
+          "es": "maestro",
+          "fr": "dingue",
+          "it": "folle",
+          "pt": "insno"
+        },
+        {
+          "id": "COMPLETED",
+          "index": "0",
+          "en": "completed",
+          "de": "abgeschlossen",
+          "es": "completado",
+          "fr": "terminé",
+          "it": "completato",
+          "pt": "concluído"
+        },
+        {
+          "id": "EASY",
+          "index": "0",
+          "en": "easy",
+          "de": "einfach",
+          "es": "fácil",
+          "fr": "facil",
+          "it": "facile",
+          "pt": "fácil"
+        },
+        {
+          "id": "MEDIUM",
+          "index": "0",
+          "en": "medium",
+          "de": "mittel",
+          "es": "medio",
+          "fr": "moyenne",
+          "it": "medio",
+          "pt": "médio"
+        },
+        {
+          "id": "HARD",
+          "index": "0",
+          "en": "hard",
+          "de": "schwer",
+          "es": "difícil",
+          "fr": "difficil",
+          "it": "difficile",
+          "pt": "difícil"
+        },
+        {
+          "id": "STANDARD",
+          "index": "0",
+          "en": "STANDARD",
+          "de": "STANDARD",
+          "es": "ESTÁNDAR",
+          "fr": "STANDARD",
+          "it": "STANDARD",
+          "pt": "PADRÃO"
+        },
+        {
+          "id": "SATIN",
+          "index": "0",
+          "en": "SATIN",
+          "de": "SATIN",
+          "es": "SATÍN",
+          "fr": "SATINÉE",
+          "it": "SATIN",
+          "pt": "ACETINADO"
+        },
+        {
+          "id": "POLARIZED",
+          "index": "0",
+          "en": "POLARIZED",
+          "de": "POLARISIERT",
+          "es": "POLARIZADO",
+          "fr": "POLARISÉE",
+          "it": "POLARIZZATO",
+          "pt": "POLARIZADO"
+        },
+        {
+          "id": "APPLY",
+          "index": "0",
+          "en": "APPLY",
+          "de": "ANWENDEN",
+          "es": "PARTICIPAR",
+          "fr": "APPLIQUER",
+          "it": "APPLICA",
+          "pt": "APLICAR"
+        },
+        {
+          "id": "ROUND",
+          "index": "0",
+          "en": "round",
+          "de": "Runde",
+          "es": "ronda",
+          "fr": "rond",
+          "it": "giro",
+          "pt": "volta"
+        },
+        {
+          "id": "TIER_SHORT",
+          "index": "0",
+          "en": "T",
+          "de": "K",
+          "es": "C",
+          "fr": "T",
+          "it": "L",
+          "pt": "S"
+        },
+
+        {
+          "id": "TIER_LIMIT",
+          "index": "0",
+          "en": "Tier [X] cars only",
+          "de": "Nur Autos der Klasse [X]",
+          "es": "Solo se permiten coches de clase [X]",
+          "fr": "Voitures tier [X] seulement",
+          "it": "Solo auto di livello [X]",
+          "pt": "Somente carros da série [X]"
+        },
+
+        {
+          "id": "_LANGUAGES",
+          "index": "0",
+          "en": "LANGUAGES",
+          "de": "SPRACHE",
+          "es": "IDIOMA",
+          "fr": "LANGUE",
+          "it": "LINGUA",
+          "pt": "IDIOMA"
+        },
+
+        {
+          "id": "char 1_1.png",
+          "index": "0",
+          "en": "Hey man! Go easy on me, I'm also new here.",
+          "de": "Hey, Mann! Schalt nen Gang runter, ich bin auch neu hier.",
+          "es": "¡Eh, tío! No te pases conmigo, que yo también soy nuevo.",
+          "fr": "Hé mec ! Vas-y doucement, je suis nouveau moi aussi.",
+          "it": "Ehi, amico! Vacci piano con me, anch'io sono nuovo qui.",
+          "pt": "Hei, cara! Não me aperte, também sou novo aqui."
+        },
+        {
+          "id": "char 1_2.png",
+          "index": "0",
+          "en": "Hello, sweetie! I'm totally down for a race with you!",
+          "de": "Hallo, Süßer. Ich wage gerne ein Rennen mit dir.",
+          "es": "¡Hola, cielo! Me encantaría disputar una carrera contigo.",
+          "fr": "Salut chérie! Je ferais bien une petite course contre toi!",
+          "it": "Ciao, tesoro! Non vedo l'ora di fare una corsa con te!",
+          "pt": "Oi, amor! Para mim está ótimo correr com você!"
+        },
+        {
+          "id": "char 1_3.png",
+          "index": "0",
+          "en": "Is that your car? You don't stand a chance against mine!",
+          "de": "Ist das dein Auto? Du hast keine Chance gegen mich.",
+          "es": "¿Ese es tu coche? ¡Bah, no tienes ninguna oportunidad!",
+          "fr": "C'est ta voiture? Tu n'as aucune chance!",
+          "it": "Quella è la tua auto? Non hai nemmeno una possibilità contro la mia!",
+          "pt": "Este é seu carro? Você não chega a meus pés!"
+        },
+        {
+          "id": "char 1_4.png",
+          "index": "0",
+          "en": "Dude, you're really short... do you even reach the gas pedal?",
+          "de": "Alter, du bist echt klein... Kommst du überhaupt ans Gaspedal?",
+          "es": "Pero qué enano eres, tío... ¡Si no llegas ni al acelerador!",
+          "fr": "Mec, t'es vraiment petit... est-ce que t'arrives jusqu'à la pédale de l'accélérateur au moins?",
+          "it": "Amico, sei davvero basso... Almeno riesci a raggiungere il pedale dell'acceleratore?",
+          "pt": "Rapaz, você é mesmo pequeno... você consegue usar o acelerador?"
+        },
+        {
+          "id": "char 1_5.png",
+          "index": "0",
+          "en": "I'm not the type to act superior or rude... let's have a fair race!",
+          "de": "Ich bin eher der bescheidene, höfliche Typ. Lass uns ein faires Rennen fahren.",
+          "es": "No me gusta hacerme el superior ni ser un maleducado... ¡Corramos en igualdad de condiciones!",
+          "fr": "Faire preuve de supériorité ou d'impolitesse, c'est pas mon truc... faisons une belle course!",
+          "it": "Non mi piace fare il superiore o essere scortese... Facciamoci una corsa!",
+          "pt": "Não sou do tipo de ser superior ou rude... vamos ver em uma corrida justa!"
+        },
+        {
+          "id": "char 1_6.png",
+          "index": "0",
+          "en": "So you've beaten my crew? Let's see if you beat me!",
+          "de": "Du hast meine Crew geschlagen? Mal sehen, ob du auch mich schlagen kannst.",
+          "es": "¿Así que has ganado a los miembros de mi pandilla? ¡Veamos si puedes conmigo!",
+          "fr": "Alors comme ça tu as battu mon équipe?! Voyons si tu peux me battre, moi!",
+          "it": "E così hai battuto la mia banda? Vediamo se riesci a battere me!",
+          "pt": "Então, você derrotou minha equipe? Vamos ver se você me derrota!"
+        },
+
+        {
+          "id": "char 2_1.png",
+          "index": "0",
+          "en": "You think looks matter? It's what's under the hood that matters!",
+          "de": "Äußerlichkeiten bedeuten gar nichts. Was zählt ist, was unter der Motorhaube steckt.",
+          "es": "¡El aspecto no importa, lo que de verdad importa es lo que hay debajo del capó!",
+          "fr": "Pour toi c'est l'apparence qui est importante? C'est ce qui est sous le capot qui compte!",
+          "it": "Credi che l'aspetto sia importante? È quello che c'è sotto la cappotta che conta davvero!",
+          "pt": "Você acha que aparência é imporante? O que interessa é o que está embaixo do capô!"
+        },
+        {
+          "id": "char 2_2.png",
+          "index": "0",
+          "en": "You better not mess with me! I'm gonna take you down!",
+          "de": "Komm mir nicht blöd. Gegen mich hast du keine Chance.",
+          "es": "¡Más te vale no tocarme las narices o te haré polvo!",
+          "fr": "Tu ferais mieux de ne pas me chercher! Je vais t'écraser!",
+          "it": "Non ti conviene metterti contro di me! Ti faccio a pezzi!",
+          "pt": "É melhor não se meter comigo! Eu vou te deixar pra trás!"
+        },
+        {
+          "id": "char 2_3.png",
+          "index": "0",
+          "en": "Speed! Or let it bleed! Yeah!",
+          "de": "Tempo! Oder du musst bluten! Yeah!",
+          "es": "¡A todo gas! ¡Síiiiii!",
+          "fr": "De la vitesse ou du sang! Ouais!",
+          "it": "Veloce! O subirai una sconfitta atroce! Sì!",
+          "pt": "Velocidade! Ou deixa correr! Isso!"
+        },
+        {
+          "id": "char 2_4.png",
+          "index": "0",
+          "en": "You can't be serious... don't waste my time!",
+          "de": "Das kann nicht dein Ernst sein. Hör auf, meine Zeit zu verschwenden.",
+          "es": "Debes estar de broma... ¡No me hagas perder el tiempo!",
+          "fr": "Tu ne dois pas être sérieux... ne me fais pas perdre mon temps!",
+          "it": "Non farai mica sul serio...? Non farmi perdere tempo!",
+          "pt": "Fala sério... não me faça perder tempo!"
+        },
+        {
+          "id": "char 2_5.png",
+          "index": "0",
+          "en": "I may be no rock star, but I drive like a jet!",
+          "de": "Ich bin vielleicht kein Rockstar, aber ich hab trotzdem nen fetten Düsenjet.",
+          "es": "¡No seré una estrella del rock, pero en la pista deslumbro!",
+          "fr": "Je ne suis peut-être pas une rockstar, mais je conduis ma voiture aussi vite qu'un jet!",
+          "it": "Non sono una rock star, ma guido come un jet!",
+          "pt": "Não sou estrela do rock, mas dirijo como um jatinho!"
+        },
+        {
+          "id": "char 2_6.png",
+          "index": "0",
+          "en": "It seems that you're quite good! But can you keep up with me?",
+          "de": "Du scheinst nicht schlecht zu sein. Aber kannst du mit mir mithalten?",
+          "es": "Parece que no se te da mal… ¡Pero dudo mucho que estés a mi altura!",
+          "fr": "Tu as l'air plutôt bon! Mais arriveras-tu à me suivre?",
+          "it": "A quanto pare sei piuttosto in gamba! Ma riuscirai a starmi dietro?",
+          "pt": "Parece que você é muito bom! Mas consegue manter meu ritmo?"
+        },
+
+        {
+          "id": "char 3_1.png",
+          "index": "0",
+          "en": "Don't look down on me, I might take you by surprise!",
+          "de": "Sei nicht so abfällig, oder du wirst dich noch wundern.",
+          "es": "No me mires por encima del hombro. ¡Te puedes llevar una sorpresa!",
+          "fr": "Ne me regarde pas de haut, je pourrais te prendre par surprise!",
+          "it": "Non sottovalutarmi, potrei sorprenderti!",
+          "pt": "Não me despreze, você pode ter uma surpresa!"
+        },
+        {
+          "id": "char 3_2.png",
+          "index": "0",
+          "en": "Come on, show me what you got!",
+          "de": "Zeig mir, was du kannst.",
+          "es": "¡Vamos, demuéstrame de qué pasta estás hecho!",
+          "fr": "Allez, montre-moi de quoi tu es capable!",
+          "it": "Forza, fammi vedere cosa sai fare!",
+          "pt": "Ah vá, me mostre o que você tem!"
+        },
+        {
+          "id": "char 3_3.png",
+          "index": "0",
+          "en": "Haha! I already know who's the loser here...",
+          "de": "Ha ha. Ich weiß schon, wer hier der Verlierer ist.",
+          "es": "¡Ja, ja! Está claro quién va a perder...",
+          "fr": "Haha! Je sais déjà qui est le perdant ici...",
+          "it": "Ah ah ah! So già chi perderà...",
+          "pt": "Haha! Eu já sei quem é o perdedor aqui..."
+        },
+        {
+          "id": "char 3_4.png",
+          "index": "0",
+          "en": "So you think you can drive? Watch me and learn!",
+          "de": "Du hältst dich für einen Rennfahrer? Guck zu und schreib mit.",
+          "es": "¿Te crees que sabes pilotar? ¡Mira y aprende!",
+          "fr": "Alors comme ça tu crois que tu sais conduire? Regarde-moi et apprends!",
+          "it": "Quindi pensi di saper guidare? Guarda me e impara!",
+          "pt": "Você pensa que sabe dirigir? Me veja e aprenda!"
+        },
+        {
+          "id": "char 3_5.png",
+          "index": "0",
+          "en": "May the best win... which is me!",
+          "de": "Möge der Beste gewinnen... also ich.",
+          "es": "Que gane el mejor... Es decir, ¡yo!",
+          "fr": "Que le meilleur gagne... c'est-à-dire moi!",
+          "it": "Che vinca il migliore... cioè io!",
+          "pt": "Que vença o melhor... ou seja, eu!"
+        },
+        {
+          "id": "char 3_6.png",
+          "index": "0",
+          "en": "You have come very far! Challenge me!",
+          "de": "Du hast es weit geschafft. Forder mich zum Rennen heraus.",
+          "es": "Has llegado muy lejos. ¡Veamos si estás a mi altura!",
+          "fr": "Tu as fait un sacré bout de chemin! Défie-moi!",
+          "it": "Hai fatto molta strada! Prova a sfidare me!",
+          "pt": "Você chegou até aqui! Me desafie!"
+        }
+
+      ]
+    }
+  }
+}
+
