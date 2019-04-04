@@ -1,0 +1,341 @@
+{
+  "stringresources": {
+    "strings": {
+      "string": [
+		{
+			"-id": "easy",
+			"en": "Easy",
+			"de": "Leicht",
+			"es": "Fácil",
+			"fr": "Facile",
+			"it": "Facile",
+			"pt": "Fácil"
+		},
+		{
+			"-id": "medium",
+			"en": "Medium",
+			"de": "Mittel",
+			"es": "Media",
+			"fr": "Moyen",
+			"it": "Normale",
+			"pt": "Intermédio"
+		},
+		{
+			"-id": "hard",
+			"en": "Hard",
+			"de": "Schwer",
+			"es": "Difícil",
+			"fr": "Difficile",
+			"it": "Difficile",
+			"pt": "Difícil"
+		},
+		{
+			"-id": "quit",
+			"en": "Quit",
+			"de": "Ende",
+			"es": "Fin",
+			"fr": "Arrêter",
+			"it": "Fine",
+			"pt": "Sair"
+        },
+		{
+			"-id": "quit_message",
+			"en": "Do you really want to quit?",
+			"de": "Willst du das spiel wirklich beenden?",
+			"es": "¿Seguro que quieres salir?",
+			"fr": "Voulez-vous vraiment quitter ?",
+			"it": "Vuoi davvero uscire?",
+			"pt": "Quer realmente sair?"
+        },
+		{
+          "-id": "sound",
+          "en": "Sounds: ",
+          "de": "Ton: ",
+          "es": "Sonidos: ",
+          "fr": "Sons: ",
+          "it": "Sonoro: ",
+          "pt": "Sons: "
+        },
+        {
+          "-id": "music",
+          "en": "Music: ",
+          "de": "Musik: ",
+          "es": "Música: ",
+          "fr": "Musique: ",
+          "it": "Musica: ",
+          "pt": "Música: "
+        },
+		{
+			"-id": "instructions",
+		    "en": "Instructions",
+		    "de": "Anweisungen",
+		    "es": "Instrucciones",
+		    "fr": "Instructions",
+		    "it": "Istruzioni",
+		    "pt": "Instruções"
+		},
+		{
+			"-id": "instructions_text_0",
+			"en": "Put the ball into the hole in as few strokes as possible. Each hole has its optimum strokes limit - par. It has a maximum strokes limit also. Reach the par to get two stars, reach under-the-par to get three stars. Complete the levels to unlock medium and hard difficulty, other levels and environments.",
+			"de": "Loche den Ball mit so wenig Schlägen wie möglich ein. Jedes Loch hat eine vorgegebene ideale Anzahl von Schlägen, Par. Es gibt auch eine maximale Anzahl von Schlägen. Spielst du Par, erhältst du zwei Sterne. Spielst du weniger als Par, erhältst du drei Sterne. Schließe die Levels ab, um die Schwierigkeitsstufen Mittel und Schwierig, andere Levels und Spielumgebungen freizuschalten.",
+			"es": "Mete la bola en el hoyo en la menor cantidad de golpes posible. Cada hoyo tiene un límite de golpes, lo que se denomina par. Consigue un par y obtendrás dos estrellas. Si lo completas en menos golpes, conseguirás tres estrellas. Completa los niveles para desbloquear la dificultad media y difícil, así como otros niveles y escenarios.",
+			"fr": "Envoyez la balle dans le trou en un minimum de coups possible. Chaque trou a une limite de coups optimale – le par. Il a également une limite de coups maximale. Atteignez le par pour obtenir deux étoiles, terminez sous le par pour obtenir trois étoiles. Terminez les niveaux pour déverrouiller les difficultés moyenne et élevée, ainsi que d'autres niveaux et environnements.",
+			"it": "Metti la pallina nella buca con il minor numero di tiri possibile. Ogni buca ha il suo limite di tiri ottimale: par. Ha anche un limite massimo di tiri. Raggiungi il par per ottenere due stelle, arriva sotto il par per ottenerne tre. Completa i livelli per sbloccare la difficoltà normale e quella difficile, altri livelli e ambientazioni.",
+			"pt": "Coloque a bola no buraco com o menor número de tacadas possível. Cada buraco tem seu limite de tacadas ideal – par. Ele também tem um limite de tacadas. Alcance o par para obter duas estrelas, chegue a abaixo do par para obter três estrelas. Conclua os níveis para desbloquear dificuldade média e difícil, outros níveis e ambientes."
+        },
+		{
+			"-id": "instructions_text_1",
+			"en": "Controls:\nTap item to select it in menu. Drag finger to move the camera around. Double tap to center the camera on the ball. Pause the game and access the in-game options by tapping the pause icon. Dots indicate the angle and strength.",
+			"de": "Steuerung:\nTippe einen Menüpunkt an, um ihn auszuwählen. Bewege die Kamera durch Ziehen. Tippe das Pausensymbol an, um das Spiel zu pausieren und auf die In-Game-Optionen zuzugreifen. Punkte zeigen den Winkel und den Stärkegrad an.",
+			"es": "Controles:\nToca un objeto para seleccionarlo en el menú. Arrastra el dedo para mover la cámara alrededor. Toca el icono de pausa para detener el juego y acceder a las opciones. Los puntos indican ángulo y potencia.",
+			"fr": "Commandes :\nTouchez un élément pour le sélectionner dans le menu. Faites glisser votre doigt pour déplacer la caméra. Mettez la partie en pause et accédez aux options du jeu en touchant l'icône de pause. Les points indiquent l'angle et la puissance.",
+			"it": "Comandi:\nTocca l'oggetto per selezionarlo nel menu. Trascina il dito per spostare la telecamera. Metti il gioco in pausa e accedi alle opzioni di gioco toccando l'icona della pausa. I puntini indicano l'angolazione e la forza.",
+			"pt": "Controles:\nToque no item para selecioná-lo no menu. Arraste o dedo para girar a câmera. Pause o jogo e acesse as opções no jogo tocando no ícone de pausa. Os pontos indicam ângulo e força."
+        },
+		{
+			"-id": "instructions_text_2",
+			"en": "Easy difficulty: touch the ball. Drag finger backwards to set the angle and strength. Release finger to shoot.",
+			"de": "Schwierigkeitsstufe Einfach: Berühre den Ball. Ziehe den Finger zurück, um Winkel und Stärke anzupassen. Lasse los, um zu schlagen.",
+			"es": "Nivel fácil: toca la bola. Arrastra el dedo hacia atrás para configurar el ángulo y la potencia. Suelta el dedo para golpear.",
+			"fr": "Difficulté faible : touchez la balle. Faites glisser votre doigt vers l'arrière pour définir l'angle et la puissance. Relâchez le doigt pour frapper.",
+			"it": "Difficoltà facile: tocca la pallina. Trascina il dito indietro per impostare l'angolazione e la forza. Rilascia il dito per tirare.",
+			"pt": "Fácil: toque na bola. Arraste o dedo para trás para ajustar o ângulo e força. Solte o dedo para atirar."
+        },
+		{
+			"-id": "instructions_text_3",
+			"en": "Medium difficulty: drag finger backwards to set the angle. Release finger to stop the strength meter and shoot.",
+			"de": "Schwierigkeitsstufe Mittel: Ziehe den Finger zurück, um Winkel anzupassen. Lasse los, um die Stärkeanzeige zu stoppen und zu schlagen.",
+			"es": "Nivel medio: arrastra el dedo hacia atrás para configurar el ángulo. Suelta el dedo para detener la barra de potencia y golpear.",
+			"fr": "Difficulté moyenne : faites glisser votre doigt vers l'arrière pour définir l'angle. Relâchez le doigt pour arrêter le calculateur de puissance et frapper.",
+			"it": "Difficoltà normale: trascina il dito indietro per impostare l'angolazione. Rilascia il dito per fermare la barra della forza ed eseguire il tiro.",
+			"pt": "Média: arraste o dedo para trás para ajustar o ângulo. Solte o dedo para parar o medidor de força e atire."
+        },
+		{
+			"-id": "instructions_text_4",
+			"en": "Hard difficulty: touch the ball. Tap on the desired quarter to start the angle meter. Tap to stop the angle meter. Tap to stop the strength meter and shoot.",
+			"de": "Schwierigkeitsstufe Schwierig: Berühre den Ball. Tippe auf das gewünschte Viertel, um die Winkelanzeige aufzurufen. Tippe, um die Winkelanzeige zu stoppen. Tippe, um die Stärkeanzeige zu stoppen und zu schlagen.",
+			"es": "Nivel difícil: toca la bola. Toca el cuarto que desees para iniciar la barra de ángulo. Toca para detener la barra de ángulo. Toca para detener la barra de potencia y golpear.",
+			"fr": "Difficulté élevée : touchez la balle. Touchez le quart souhaité pour démarrer le calculateur d'angle. Touchez pour arrêter le calculateur d'angle. Touchez pour arrêter le calculateur de puissance et frapper.",
+			"it": "Difficoltà difficile: tocca la pallina. Tocca il quarto desiderato per avviare la barra dell'angolazione. Tocca per fermare la barra dell'angolazione. Tocca per fermare la barra della forza ed eseguire il tiro.",
+			"pt": "Difícil: toque na bola. Toque no quadrante desejado para iniciar o medidor de ângulo. Toque para parar o medidor de ângulo. Toque para parar o medidor de força e atire."
+        },
+		{
+			"-id": "about",
+		    "en": "About",
+		    "de": "Info",
+		    "es": "Información",
+		    "fr": "À propos",
+		    "it": "Info",
+		    "pt": "Sobre"
+		},
+		{
+			"-id": "on",
+		    "en": "on",
+		    "de": "an",
+		    "es": "sí",
+		    "fr": "activé",
+		    "it": "acc.",
+		    "pt": "ativado"
+		},
+		{
+			"-id": "off",
+		    "en": "off",
+		    "de": "aus",
+		    "es": "no",
+		    "fr": "désactivé",
+		    "it": "chiud.",
+		    "pt": "desativado"
+		},
+		{
+			"-id": "hole",
+		    "en": "Hole: ",
+		    "de": "Loch: ",
+		    "es": "Hoyo: ",
+		    "fr": "Trou: ",
+		    "it": "Buca: ",
+		    "pt": "Buraco: "
+		},
+		{
+			"-id": "best",
+		    "en": "Best: ",
+		    "de": "Beste: ",
+		    "es": "Récord: ",
+		    "fr": "Meilleur: ",
+		    "it": "Miglior: ",
+		    "pt": "Melhor: "
+		},
+		{
+			"-id": "par",
+		    "en": "Par: ",
+		    "de": "Par: ",
+		    "es": "Par: ",
+		    "fr": "Par: ",
+		    "it": "Par: ",
+		    "pt": "Par: "
+		},
+		{
+			"-id": "max",
+		    "en": "Max: ",
+		    "de": "Max.: ",
+		    "es": "Máx.: ",
+		    "fr": "Max: ",
+		    "it": "Max: ",
+		    "pt": "Máx: "
+		},
+		{
+			"-id": "hits",
+		    "en": "Hits: ",
+		    "de": "Schläge: ",
+		    "es": "Golpes: ",
+		    "fr": "Coups: ",
+		    "it": "Colpi: ",
+		    "pt": "Toques: "
+		},
+		{
+			"-id": "paused",
+		    "en": "Game paused",
+		    "de": "Spiel pausiert",
+		    "es": "Juego en pausa",
+		    "fr": "Partie en pause",
+		    "it": "Pausa",
+		    "pt": "Jogo pausado"
+		},
+		{
+			"-id": "continue",
+		    "en": "Continue",
+		    "de": "Fortfahren",
+		    "es": "Continuar",
+		    "fr": "Continuer",
+		    "it": "Continua",
+		    "pt": "Continuar"
+		},
+		{
+			"-id": "continue_question",
+		    "en": "Continue?",
+		    "de": "Fortfahren?",
+		    "es": "¿Continuar?",
+		    "fr": "Continuer ?",
+		    "it": "Continua?",
+		    "pt": "Continuar?"
+		},
+		{
+			"-id": "select_hole",
+		    "en": "Select the hole",
+		    "de": "Loch auswählen",
+		    "es": "Selecciona el hoyo",
+		    "fr": "Sélectionner le trou",
+		    "it": "Seleziona la buca",
+		    "pt": "Selecionar o buraco"
+		},
+		{
+			"-id": "restart_hole",
+		    "en": "Restart hole",
+		    "de": "Loch noch einmal starten",
+		    "es": "Reiniciar hoyo",
+		    "fr": "Recommencer le trou",
+		    "it": "Riavvia buca",
+		    "pt": "Reiniciar buraco"
+		},
+		{
+			"-id": "restart_hole_question",
+		    "en": "Restart hole?",
+		    "de": "Loch noch einmal starten?",
+		    "es": "¿Reiniciar hoyo?",
+		    "fr": "Recommencer le trou ?",
+		    "it": "Riavvia buca?",
+		    "pt": "Reiniciar buraco?"
+		},
+		{
+			"-id": "progress_lost",
+			"en": "Are you sure? Current progress will be lost.",
+			"de": "Sicher? Dein aktueller Fortschritt wird gelöscht.",
+			"es": "¿Seguro? Perderás el progreso actual.",
+			"fr": "Vous êtes sûr(e) ? Votre progression actuelle sera perdue.",
+			"it": "Confermi? Perderai i progressi attuali.",
+			"pt": "Tem certeza? O progresso atual será perdido."
+		},
+		{
+			"-id": "levels_completed",
+		    "en": "Well done! You have completed this set of levels!",
+		    "de": "Klasse! Du hast diese Gruppe von Levels abgeschlossen!",
+		    "es": "¡Muy bien! ¡Has completado este conjunto de niveles!",
+		    "fr": "Bien joué ! Vous venez de terminer cette série de niveaux !",
+		    "it": "Ben fatto! Hai completato questo set di livelli!",
+		    "pt": "Parabéns! Você concluiu este conjunto de níveis!"
+		},
+		{
+			"-id": "out_of_moves",
+		    "en": "Out of moves!",
+		    "de": "Du hast keine Züge mehr!",
+		    "es": "¡Te has quedado sin movimientos!",
+		    "fr": "Aucun coup restant !",
+		    "it": "Mosse esaurite!",
+		    "pt": "Acabaram-se os movimentos!"
+		},
+		{
+			"-id": "try_again",
+		    "en": "Try again!",
+		    "de": "Versuche es nochmal!",
+		    "es": "¡Inténtalo otra vez!",
+		    "fr": "Réessayez !",
+		    "it": "Riprova!",
+		    "pt": "Tente novamente!"
+		},
+		{
+			"-id": "result_hole_in_one",
+		    "en": "Hole-in-one!",
+		    "de": "Hole-in-One!",
+		    "es": "¡Hoyo en uno!",
+		    "fr": "Hole-in-one !",
+		    "it": "Buca in uno!",
+		    "pt": "Hole-in-one!"
+		},
+		{
+			"-id": "result_albatross",
+		    "en": "Albatross!",
+		    "de": "Albatros!",
+		    "es": "¡Albatross!",
+		    "fr": "Albatross !",
+		    "it": "Albatross!",
+		    "pt": "Albatross!"
+		},
+		{
+			"-id": "result_eagle",
+		    "en": "Eagle!",
+		    "de": "Eagle!",
+		    "es": "¡Eagle!",
+		    "fr": "Eagle !",
+		    "it": "Eagle!",
+		    "pt": "Eagle!"
+		},
+		{
+			"-id": "result_birdie",
+		    "en": "Birdie!",
+		    "de": "Birdie!",
+		    "es": "¡Birdie!",
+		    "fr": "Birdie !",
+		    "it": "Birdie!",
+		    "pt": "Birdie!"
+		},
+		{
+			"-id": "result_par",
+		    "en": "Par!",
+		    "de": "Par!",
+		    "es": "¡Par!",
+		    "fr": "Par !",
+		    "it": "Par!",
+		    "pt": "Par!"
+		},
+		{
+			"-id": "result_bogey",
+		    "en": "Bogey!",
+		    "de": "Bogey!",
+		    "es": "¡Bogey!",
+		    "fr": "Bogey !",
+		    "it": "Bogey!",
+		    "pt": "Bogey!"
+		}
+      ]
+    }
+  }
+}
