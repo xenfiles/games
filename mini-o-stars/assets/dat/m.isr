@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+	<languages>
+		<language>en</language>
+		<language>sk</language>
+		<language>es</language>
+		<language>cz</language>
+		<language>de</language>
+		<language>it</language>
+		<language>fr</language>
+		<language>ru</language>
+		<language>pt</language>
+		<language>tr</language>
+	</languages>
+	<strings>
+		<string id="PAUSE" index="12">
+			<en>PAUSE</en>
+			<es>PAUSA</es>
+			<de>PAUSE</de>
+			<it>PAUSA</it>
+			<fr>PAUSE</fr>
+			<br>PAUSE</br>
+			<ru>ПАУЗА</ru>
+		</string>
+		<string id="GAME_OVER" index="13">
+			<en>GAME OVER</en>
+			<es>FINAL\nDE LA PARTIDA</es>
+			<de>SPIELENDE</de>
+			<it>Fine del gioco</it>
+			<fr>FIN DU JEU</fr>
+			<br>FIM DO JOGO</br>
+			<ru>ИГРА ОКОНЧЕНА</ru>
+		</string>
+		<string id="22" index="14">
+			<en>MEDAL</en>
+			<es>MEDALLA</es>
+			<de>MEDAILLE</de>
+			<fr>MÉDAILLE</fr>
+			<br>MEDALHA</br>
+		</string>
+		<string id="SCORE" index="15">
+			<en>SCORE</en>
+			<es>PUNTUACIÓN</es>
+			<de>PUNKTE</de>
+			<fr>SCORE</fr>
+			<it>PUNTEGGIO</it>
+			<br>PONTUAÇÃO</br>
+			<ru>ЛУЧШИЙ</ru>
+		</string>
+		<string id="BEST" index="16">
+			<en>BEST</en>
+			<es>LO MEJOR</es>
+			<it>IL MIGLIORE</it>
+			<de>REKORD</de>
+			<fr>RECORD</fr>
+			<br>MELHOR</br>
+			<ru>РЕКОРД</ru>
+		</string>
+		<string id="INSTRUCTIONS_TEXT" index="9">
+			<en>COLLECT COINS AND AVOID THE ANGRY SPACE TROOPERS. THE LONGER YOU PLAY, THE MORE TROOPERS WILL TRY TO GET YOU! UNLOCK NEW CHARACTERS WITH THE COINS YOU EARN.</en>
+			<es>RECOGE MONEDAS Y EVITA A LOS MALHUMORADOS SOLDADOS. ¡CUANTO MÁS TIEMPO JUEGUES, MÁS SOLDADOS INTENTARÁN ATRAPARTE! CON LAS MONEDAS QUE CONSIGAS PODRÁS DESBLOQUEAR OTROS PERSONAJES.</es>
+			<de>SAMMLE MÜNZEN UND GEHE DEN WÜTENDEN SOLDATEN AUS DEM WEG. JE LÄNGER DU SPIELST, DESTO MEHR SOLDATEN WERDEN SICH AN DEINE FERSEN HEFTEN! SCHALTE NEUE CHARAKTERE MIT DEN GESAMMELTEN MÜNZEN FREI.</de>
+			<it>RACCOGLI LE MONETE ED EVITA LE TRUPPE SPAZIALI INFURIATE. PIÙ TEMPO GIOCHI, PIÙ TRUPPE CERCHERANNO DI PRENDERTI! SBLOCCA NUOVI PERSONAGGI CON LE MONETE CHE GUADAGNI.</it>
+			<fr>COLLECTEZ DES PIÈCES ET ÉVITEZ LES TROOPERS DE L'ESPACE EN COLÈRE ! PLUS VOUS JOUEZ LONGTEMPS, PLUS LES TROOPERS ESSAIERONT DE VOUS ATTRAPER ! DÉVERROUILLEZ DE NOUVEAUX PERSONNAGES AVEC LES PIÈCES QUE VOUS AVEZ GAGNÉES.</fr>
+			<br>RECOLHA MOEDAS E EVITE OS SOLDADOS IRADOS! QUANTO MAIS VOCÊ JOGAR, MAIS SOLDADOS TENTARÃO PEGAR VOCÊ.  DESBLOQUEIE NOVOS PERSONAGENS COM AS MOEDAS QUE GANHAR.</br>
+			<ru>СОБИРАЙТЕ МОНЕТЫ И ИЗБЕГАЙТЕ ПРОТИВНИКОВ В КОСМОСЕ. ЧЕМ ДОЛЬШЕ ВЫ ИГРАЕТЕ, ТЕМ БОЛЬШЕ ПРОТИВНИКОВ БУДЕТ ПЫТАТЬСЯ ПОЙМАТЬ ВАС! РАЗБЛОКИРУЙТЕ НОВЫХ ПЕРСОНАЖЕЙ ЗА МОНЕТЫ, КОТОРЫЕ ВЫ ЗАРАБОТАЛИ.</ru>
+		</string>
+		<string id="INSTRUCTIONS" index="22">
+			<en>INSTRUCTIONS</en>
+			<es>INSTRUCCIONES</es>
+			<de>ANLEITUNG</de>
+			<it>ISTRUZIONI</it>
+			<fr>INSTRUCTIONS</fr>
+			<br>INSTRUÇÕES</br>
+			<ru>ИНСТРУКЦИИ</ru>
+		</string>
+
+		<string id="48" index="24">
+			<en>SCORE:</en>
+			<es>PUNTUACIÓN:</es>
+			<de>PUNKTE:</de>
+			<it>PUNTEGGIO:</it>
+			<fr>SCORE:</fr>
+			<br>PONTUAÇÃO:</br>
+			<ru>ЛУЧШИЙ:</ru>
+		</string>
+
+		<string id="CHAR0" index="21">
+			<en>LUCK STARWALKER</en>
+			<es>LUCK STARWALKER</es>
+			<de>LUCK STARWALKER</de>
+			<it>LUCK STARWALKER</it>
+			<fr>LUCK STARWALKER</fr>
+			<br>LUCK STARWALKER</br>
+			<ru>ВЕЗУЧИЙ ПУТЕШЕСТВЕННИК</ru>
+		</string>
+
+		<string id="CHAR1" index="24">
+			<en>HER MAJESTY</en>
+			<es>SU MAJESTAD</es>
+			<de>IHRE MAJESTÄT</de>
+			<it>SUA MAESTÀ</it>
+			<fr>SA MAJESTÉ</fr>
+			<br>SUA MAJESTADE</br>
+			<ru>ЕЁ ВЕЛИЧЕСТВО</ru>
+		</string>
+
+		<string id="CHAR2" index="25">
+			<en>CHEWIE</en>
+			<es>CHEWIE</es>
+			<de>CHEWIE</de>
+			<it>CHEWIE</it>
+			<fr>CHEWIE</fr>
+			<br>CHEWIE</br>
+			<ru>ЧУВИ</ru>
+		</string>
+
+		<string id="CHAR4" index="28">
+			<en>OLD MASTER</en>
+			<es>VIEJO MAESTRO</es>
+			<de>ALTER MEISTER</de>
+			<it>VECCHIO MAESTRO</it>
+			<fr>VIEUX MAÎTRE</fr>
+			<br>VELHO MESTRE</br>
+			<ru>СТАРЫЙ МАСТЕР</ru>
+		</string>
+
+		<string id="CHAR3" index="10">
+			<en>ROLLY</en>
+			<es>ROLLY</es>
+			<de>ROLLY</de>
+			<it>ROLLY</it>
+			<fr>ROLLY</fr>
+			<br>CORUJA</br>
+			<ru>РОЛЛИ</ru>
+		</string>
+
+		<string id="CHAR0_ABILITY" index="11">
+			<en>Power freeze</en>
+			<de>Blitzeis</de>
+			<es>Congelación</es>
+			<fr>Pouvoir givrant</fr>
+			<it>Congelamento</it>
+			<br>Poder congelante</br>
+		</string>
+
+		<string id="CHAR0_ABILITY_DESC" index="12">
+			<en>All enemies will be slowed down.</en>
+			<de>Alle Feinde können sich nur noch langsam bewegen.</de>
+			<es>Se reduce la velocidad de todos los enemigos.</es>
+			<fr>Tous les ennemis seront ralentis.</fr>
+			<it>Tutti i nemici saranno rallentati.</it>
+			<br>Todos os inimigos serão desacelerados.</br>
+			<ru>ВСЕ ВРАГИ БУДУТ ЗАМЕДЛЕНЫ.</ru>
+		</string>
+
+		<string id="CHAR1_ABILITY" index="13">
+			<en>Mind control</en>
+			<de>Gedankenkontrolle</de>
+			<es>Telepatía</es>
+			<fr>Contrôle mental</fr>
+			<it>Controllo mentale</it>
+			<br>Controle da mente</br>
+		</string>
+
+		<string id="CHAR1_ABILITY_DESC" index="14">
+			<en>Affected enemy will turn back.</en>
+			<de>Der betroffene Feind lässt von dir ab.</de>
+			<es>Los enemigos afectados se dan la vuelta.</es>
+			<fr>Les ennemis affectés feront demi-tour.</fr>
+			<it>I nemici colpiti si ritireranno.</it>
+			<br>O inimigo afetado vai voltar.</br>
+			<ru>ВРАГ ДО КОТОРОГО ДОТРОНУЛИСЬ РАЗВЕРНЕТСЯ</ru>
+		</string>
+
+		<string id="CHAR2_ABILITY" index="15">
+			<en>Armageddon</en>
+			<de>Armageddon</de>
+			<es>Armagedón</es>
+			<fr>Armageddon</fr>
+			<it>Armageddon</it>
+			<br>Batalha do Juízo Final</br>
+		</string>
+
+		<string id="CHAR3_ABILITY_DESC" index="16">
+			<en>A meteor shower will wipe out all enemies.</en>
+			<de>Ein Meteoritenschauer löscht alle Feinde aus.</de>
+			<es>Una lluvia de meteoritos acaba con todos los enemigos.</es>
+			<fr>Une pluie de météores balaiera tous les ennemis.</fr>
+			<it>Una pioggia di meteoriti sterminerà tutti i nemici.</it>
+			<br>Uma chuva de meteoros decimará os inimigos.</br>
+			<ru>МЕТЕОРИТНЫЙ ДОЖДЬ УБЬЕТ ВСЕХ ВРАГОВ.</ru>
+		</string>
+
+		<string id="CHAR3_ABILITY" index="17">
+			<en>Unbeatable</en>
+			<de>Unschlagbar</de>
+			<es>Invencible</es>
+			<fr>Imbattable</fr>
+			<it>Imbattibile</it>
+			<br>Invencível</br>
+		</string>
+
+		<string id="CHAR2_ABILITY_DESC" index="18">
+			<en>Hit enemy to transform it into a coin.</en>
+			<de>Verwandle den Feind mit einem Treffer in eine Münze.</de>
+			<es>Golpea a un enemigo y se convertirá en una moneda.</es>
+			<fr>Frappez les ennemis pour les transformer en pièces.</fr>
+			<it>Colpisci un nemico per trasformarlo in una moneta.</it>
+			<br>Atinja o inimigo para transformá-lo em uma moeda.</br>
+			<ru>ВСЕ ВРАГИ ПРЕОБРАЗЯТСЯ В МОНЕТЫ.</ru>
+		</string>
+
+		<string id="CHAR4_ABILITY" index="19">
+			<en>Teleport</en>
+			<de>Teleportieren</de>
+			<es>Teletransporte</es>
+			<fr>Téléportation</fr>
+			<it>Teletrasporto</it>
+			<br>Teletransporte</br>
+		</string>
+
+		<string id="CHAR4_ABILITY_DESC" index="20">
+			<en>Touch the enemy to teleport to the next coin.</en>
+			<de>Berühre den Feind, um dich zur nächsten Münze zu teleportieren.</de>
+			<es>Toca a un enemigo para teletransportarte a la siguiente moneda.</es>
+			<fr>Touchez l'ennemi pour vous téléporter à la pièce suivante.</fr>
+			<it>Tocca il nemico per teletrasportarti alla prossima moneta.</it>
+			<br>Toque o inimigo para teletransportar para a próxima moeda</br>
+			<ru>ДОТРОНУВШИСЬ ДО ВРАГА, ПЕРЕМЕСТИТЕСЬ К СЛЕДУЮЩЕЙ МОНЕТЕ.</ru>
+		</string>
+
+	</strings>
+</stringresources>
